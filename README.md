@@ -1,6 +1,13 @@
-# Hey, Muzi Dube here
+# Muzi Dube
 
-**Product-minded Developer | Business Analytics Student**
+<h2>Product-minded Developer | Business Analytics Student<br><br></h2>
+
+### Let's connect : )
+
+![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhumuzi511@gmail.com)
 
 I enjoy working at the intersection of technology, data, and product development.
 
@@ -9,13 +16,6 @@ I'm interested in understanding how products work, why users interact with them 
 My approach is simple: **understand the problem, think critically about the solution, and build something useful.**
 
 ---
-
-## What I'm focused on
-
-- **Product thinking:** understanding users, product behaviour, metrics, funnels and retention, and data-driven decisions
-- **Software development:** building practical applications and strengthening my engineering fundamentals
-- **Analytics:** developing skills in SQL, Python, statistics, experimentation (A/B testing), and data visualization
-- **Continuous learning:** exploring computer science, software architecture, and modern development practices
 
 ## Tech Stack
 
@@ -51,6 +51,13 @@ A Postgres database (run with Docker) modelled around product event data: a trac
 
 ### Squadsea
 A student collaboration platform where students can share ideas, discover opportunities, form teams, and build projects together.
+
+## What I'm focused on
+
+- **Product thinking:** understanding users, product behaviour, metrics, funnels and retention, and data-driven decisions
+- **Software development:** building practical applications and strengthening my engineering fundamentals
+- **Analytics:** developing skills in SQL, Python, statistics, experimentation (A/B testing), and data visualization
+- **Continuous learning:** exploring computer science, software architecture, and modern development practices
 
 ## Beyond the Code
 
